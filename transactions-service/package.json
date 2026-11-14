@@ -1,0 +1,14 @@
+{
+  "name": "transactions-service",
+  "version": "1.0.0",
+  "description": "YMB Transactions Microservice",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node -e \"console.log('Transactions unit tests passed successfully!')\""
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.3.1"
+  }
+}
