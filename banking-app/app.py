@@ -36,7 +36,6 @@ def home():
     <body>
         <div class="container">
             <h1>YMB Banking App - Auto Deploy</h1>
-            <p>Financial Community Support Tracker API Service</p>
         </div>
     </body>
     </html>
